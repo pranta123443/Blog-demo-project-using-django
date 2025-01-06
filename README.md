@@ -10,7 +10,7 @@ This project is a basic blog site built using Django. It dynamically renders dat
 - **Scalable Structure:** Designed to extend with more features like titles, images, categories, dates, description etc.
 
 ## Requirements
-- Python 3.x
+- Python
 - Django 4.x (or a compatible version)
 - Any additional dependencies listed in `requirements.txt`
 
